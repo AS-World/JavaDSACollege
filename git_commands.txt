@@ -1,0 +1,9 @@
+git init
+git remote add origin <url goes here>
+git add .
+git commit -m "<message goes here>"
+git branch main
+git chekout main
+git push -f -u main //this is for the first time
+
+git push
